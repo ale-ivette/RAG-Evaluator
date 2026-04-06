@@ -1,6 +1,6 @@
 # RAG Evaluator
 
-Automated quality evaluation system for RAG (Retrieval-Augmented Generation) pipelines using RAGAS metrics — applied to Dynamics 365 Finance data.
+Automated quality evaluation system for RAG (Retrieval-Augmented Generation) pipelines using RAGAS metrics — applied to ERP Finance data.
 
 ## Why this matters
 Most AI engineers build RAG systems. Few can prove they work well. This tool provides quantitative evidence of RAG quality across 4 dimensions, bridging the gap between prototype and production-ready system.
@@ -14,7 +14,7 @@ Most AI engineers build RAG systems. Few can prove they work well. This tool pro
 | Context Precision | Were the right document chunks retrieved? |
 | Context Recall | Was all necessary information retrieved? |
 
-## Results on D365 Finance dataset
+## Results on ERP dataset
 
 | Metric | Score |
 |---|---|
